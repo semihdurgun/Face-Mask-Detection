@@ -1,1 +1,2 @@
 Raspberry Pi üzerinde çalışması için yapılmıştır.
+s
