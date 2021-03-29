@@ -1,2 +1,2 @@
-Raspberry Pi üzerinde çalışması için yapılmıştır..
+Raspberry Pi üzerinde çalışması için yapılmıştır. 
  
