@@ -1,2 +1,2 @@
 Raspberry Pi üzerinde çalışması için yapılmıştır.
-S3hD4n
+S3hD4n.
