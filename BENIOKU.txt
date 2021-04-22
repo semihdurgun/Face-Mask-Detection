@@ -1,2 +1,2 @@
 Raspberry Pi üzerinde çalışması için yapılmıştır.
-09:59
+10:00
